@@ -23,7 +23,7 @@ export function SiteFooter() {
           <div className="footer-links">
             <span className="footer-title">Fale com a DG</span>
             <a href={whatsappUrl} target="_blank" rel="noopener noreferrer"><MessageCircle size={17} /> (85) 98660-8852</a>
-            <a href="https://www.instagram.com/dgconciergebrasil/" target="_blank" rel="noopener noreferrer"><Camera size={17} /> @dgconciergebrasil</a>
+            <a href="https://www.instagram.com/dgconciergebr/" target="_blank" rel="noopener noreferrer"><Camera size={17} /> @dgconciergebr</a>
             <span className="footer-location">Atendimento em todo o Brasil</span>
           </div>
           <div className="footer-invitation">
